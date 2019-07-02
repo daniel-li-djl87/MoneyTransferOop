@@ -52,10 +52,6 @@ namespace MoneyTransferOop
             initializeMake();
         }
 
-        ~MoneyTransferObject()
-        {
-        }
-
         public void close()
         {
             connection.Close();
