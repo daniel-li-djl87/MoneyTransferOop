@@ -31,6 +31,7 @@ namespace MoneyTransferOop
         }
 
     }
+    //This is a MoneyTransferObject
     class MoneyTransferObject
     {
         private EmpressConnection connection;
